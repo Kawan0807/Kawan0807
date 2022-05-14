@@ -9,9 +9,9 @@ sonhos de iniciar, trabalhar na área de TI e estou em busca de um novo desafio 
 desenvolvedor.
 
 <div align="center">
-  <a href="https://github.com/kawan0807">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawan0807&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawan0807&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Kawan0807">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kawan0807&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawan0807&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>           
@@ -26,7 +26,7 @@ desenvolvedor.
   
    <div>
     <a href = "mailto:kawanmelofernandes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>         
-      <a href="https://www.linkedin.com/in/kawan-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+       <a href="https://www.linkedin.com/in/kawan-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      
      ![Snake animation](https://github.com/Kawan0807/Kawan0807/blob/output/github-contribution-grid-snake.svg)
  
