@@ -1,12 +1,10 @@
 ### Olá! Eu sou o Kawan! 👋
 
-- 🌱 Estudando análise e desenvolvimento de sistemas
-- 😄 Sou um homem com princípios e valores, que acredito na minha jornada e legado mudando, 
+- 🌱 Estou no último ano da graduação em Análise e Desenvolvimento de Sistemas.
+- 😄 Sou um homem com princípios e valores, que acredito na minha jornada mudando, 
 melhorando a vida das pessoas com a tecnologia. Por este motivo estou sempre me 
 atualizado, estudando para melhorar cada vez mais e me divertindo com programação, 
-buscando ter mais conhecimento para contribuir na vida de todos. Realizei um dos meus 
-sonhos de iniciar, trabalhar na área de TI e estou em busca de um novo desafio como 
-desenvolvedor.
+buscando ter mais conhecimento para contribuir na vida de todos. Realizei um  dos meus sonhos ao ingressar na área de TI, no qual trabalho como  Analista de Desenvolvimento de Software.
 
 <div align="center">
   <a href="https://github.com/Kawan0807">
